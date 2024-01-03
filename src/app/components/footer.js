@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <div className="flex justify-between mt-20 py-5 border-t">
-      <p>2023 - Stefano Perelli</p>
+      <p>2024 - footer text</p>
       <div>
         <Link href="/" className="transition hover:text-primary">
           Home

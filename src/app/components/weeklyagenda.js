@@ -7,10 +7,9 @@ export default function WeeklyAgenda() {
   return (
     <section className="lastposts py-4">
       <p className="pb-4">
-        A sneak peek into my life as a Product Director. I will share here my
-        notes, my goals and their relative progress, a rollercoaster of
-        challenges, victories and pains as we shape our product and company
-        vision.
+        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco
       </p>
       {agendaNotes.slice(0, 5).map((note) => (
         <div

@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "stefanoperelli.com",
-  description: "my little space on web",
+  title: "[your site title]",
+  description: "[yout site description]",
 };
 
 export default function RootLayout({ children }) {
