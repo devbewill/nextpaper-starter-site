@@ -1,7 +1,8 @@
-# NextPaper 📄
+# NextPaper - Nextjs starter site 📄
+
+NextPaper is a minimal, responsive and SEO-friendly NextJs blog theme. This theme is designed and crafted based on [my personal site](https://stefanoperelli.com) and built using Nextjs 14, tailwind and MDX.
 
 ![NextPaper](public/nextpaper.png)
-NextPaper is a minimal, responsive, accessible and SEO-friendly NextJs blog theme. This theme is designed and crafted based on [my personal site](https://stefanoperelli.com).
 
 ## 🔥 Features
 
