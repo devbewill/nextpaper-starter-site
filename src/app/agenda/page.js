@@ -20,7 +20,7 @@ export default function Blog() {
                   className={
                     note.tags == "bad"
                       ? "text-xs font-bold uppercase bg-red-500 text-white p-1 rounded"
-                      : note.tags === "good"
+                      : note.tags == "good"
                       ? "text-xs font-bold uppercase bg-green-500 text-white p-1 rounded"
                       : "text-xs font-bold uppercase bg-orange-300 text-white p-1 rounded"
                   }
